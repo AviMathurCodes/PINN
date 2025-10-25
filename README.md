@@ -2,7 +2,7 @@
 
 Physics-Informed Neural Networks (PINNs) provide a framework that combines physical
 laws (such as the heat equation) with sparse observational data to infer complete spatio
-temporal temperature profiles. In this assignment, you will develop a PINN to model heat
+temporal temperature profiles. In this assignment, I will develop a PINN to model heat
 distribution in a one-dimensional metal rod using limited, noisy temperature measurements
 from a few sensors.
 
